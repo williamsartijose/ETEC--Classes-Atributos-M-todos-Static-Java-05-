@@ -1,9 +1,9 @@
-package application;
+package ProblemaProdutos.application;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Product;
+import ProblemaProdutos.entities.Product;
 
 public class Program {
 
@@ -22,7 +22,7 @@ public class Program {
 		product.quantity = sc.nextInt();
 
 		System.out.println();
-		System.out.println("Product data: " + product);
+		System.out.println("Retangulo data: " + product);
 		System.out.println();
 		System.out.print("Enter the number of products to be added in stock: ");
 		int quantity = sc.nextInt();
