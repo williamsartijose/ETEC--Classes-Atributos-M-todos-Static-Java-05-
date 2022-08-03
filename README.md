@@ -4,7 +4,6 @@
 # Sobre o projeto
 
 
-
 Classes, atributos, métodos, static  = https://github.com/williamsartijose/ETEC--Classes-Atributos-M-todos-Static-Java-05-
 
 
