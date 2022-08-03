@@ -10,7 +10,7 @@ Classes, atributos, métodos, static  = https://github.com/williamsartijose/ETEC
 
 ## PARTE 1: Classes, atributos, métodos
 #### Problema "retangulo" -  
-(https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/src/EstruturaWhile_Enquanto/ProblemaCrescente.java)
+(https://github.com/williamsartijose/ETEC-Classes-Atributos-Metodos-Static-Java-05/tree/main/application/src/ProblemaRetangulo)
 
 Fazer um programa para ler os valores da largura e altura de um
 retângulo. Em seguida, mostrar na tela o valor de sua área,
@@ -19,7 +19,7 @@ projeto ao lado.
 ![Web 2](https://github.com/williamsartijose/ETEC--Classes-Atributos-M-todos-Static-Java-05-/blob/main/1.PNG)
 
 #### Problema "funcionarios"
-(https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/src/EstruturaWhile_Enquanto/ProblemaMediaIdade.java)
+(https://github.com/williamsartijose/ETEC-Classes-Atributos-Metodos-Static-Java-05/tree/main/application/src/ProblemaFuncionarios)
 
 Fazer um programa para ler os dados de um
 funcionário (nome, salário bruto e imposto).
@@ -34,7 +34,7 @@ classe projetada ao lado.
 ![Web 1](https://github.com/williamsartijose/ETEC--Classes-Atributos-M-todos-Static-Java-05-/blob/main/2.PNG)
 
 #### Problema "alunos"
-(https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/src/EstruturaWhile_Enquanto/problemaSenhaFixa.java)
+(https://github.com/williamsartijose/ETEC-Classes-Atributos-Metodos-Static-Java-05/tree/main/application/src/ProblemaAluno)
 
 Fazer um programa para ler o nome de um aluno e as três notas que ele obteve nos três trimestres do
 ano (primeiro trimestre vale 30 e o segundo e terceiro valem 35 cada). Ao final, mostrar qual a nota
@@ -48,7 +48,7 @@ da nota). Você deve criar uma classe Student para resolver este problema.
 ## PARTE 2: Membros estáticos 
 
 #### Problema "cambio"
-(https://github.com/williamsartijose/ETEC-Praticando-Logicas-Estrutura-Repetitivas-Java-04/blob/main/src/EstruturaFor_Para/ProblemaTabuada.java )
+(https://github.com/williamsartijose/ETEC-Classes-Atributos-Metodos-Static-Java-05/tree/main/application/src/ProblemaCambio)
 
 Faça um programa para ler a cotação do dólar, e depois um valor em dólares a ser comprado por uma
 pessoa em reais. Informar quantos reais a pessoa vai pagar pelos dólares, considerando ainda que a
@@ -58,6 +58,7 @@ ser responsável pelos cálculos.
 ![Web 1](https://github.com/williamsartijose/ETEC--Classes-Atributos-M-todos-Static-Java-05-/blob/main/11.PNG)
 
 ## DESAFIO: Bar OO
+(https://github.com/williamsartijose/ETEC-Classes-Atributos-Metodos-Static-Java-05/tree/main/application/src/ProblemaDesafioBarOO)
 
 Em um bar, o ingresso custa 10 reais para homens e 8 reais para mulheres. 
 Cada cerveja custa 5 reais, cada refrigerante 3 reais e cada espetinho custa 
